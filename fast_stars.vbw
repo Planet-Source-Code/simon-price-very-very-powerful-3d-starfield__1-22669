@@ -1,0 +1,5 @@
+modMain = 52, 52, 641, 478, Z
+modScreen = 130, 130, 650, 556, 
+cPicture24 = 78, 78, 667, 504, 
+modWindows = 156, 156, 745, 582, 
+cBuffer = 0, 0, 0, 0, C
